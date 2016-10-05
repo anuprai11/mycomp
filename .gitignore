@@ -1,0 +1,4 @@
+#ignore all intellij stuff
+.idea/
+#fronEnd Stuff
+/node_modules
